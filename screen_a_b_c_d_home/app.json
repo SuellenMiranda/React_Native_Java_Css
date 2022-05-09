@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "screen_a_b_c_d_home",
+    "slug": "snack-e0901ffe-ecd3-45ea-8058-d0089b4335f8",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Tela A\n[tela A, B]\n\nTela B\n[tela B, C, A]\n\nTela C\n[tela C, D, B]\n\nTela D\n[tela D, C inicial]"
+  }
+}
